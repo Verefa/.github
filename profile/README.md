@@ -29,7 +29,7 @@ The Official
 
   
 
-<p  align="center"> Verefa is a subsidiary technology company to [Robottik Software](https://robottik.com/). Working to provide powerful and intelligent authentication and identification services between people and technology. Keep up to date at [Verefa](https://verefa.com/). 
+<p  align="center"> Verefa is a subsidiary technology company to <a href="https://robottik.com/">Robottik Software</a>. Working to provide powerful and intelligent authentication and identification services between people and technology. Keep up to date at <a href="https://verefa.com/">Verefa</a>. 
 <br>
 Persistently improving digital interactions with machines and people alike.
 </p>
