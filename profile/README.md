@@ -3,7 +3,7 @@
 
 <a  href=""  rel="noopener">
 
-<h3 align="center"><img width=200px  height=200px  src="https://verefa.com/resources/logos/BlackLogo.svg"  alt="Project logo"></a></h3>
+<h3 align="center"><img width=200px  height=200px  src="https://verefa.com/resources/logos/WhiteLogo.svg"  alt="Project logo"></a></h3>
 
 </p>
 
