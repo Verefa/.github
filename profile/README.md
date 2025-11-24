@@ -12,7 +12,7 @@
 <h3 align="center">Verefa</h3>
 <h5 align="center" underline=none text-decoration=none>
 The Official 
-<a href="https://verefa.co.uk/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Verefa</a> GitHub</h5> 
+<a href="https://verefa.com/" style="color: black; text-decoration: underline;text-decoration-style: dotted;">Verefa</a> GitHub</h5> 
 
 
   
